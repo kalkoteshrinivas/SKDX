@@ -192,7 +192,7 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Test_Field__c</field>
+        <field>Account.Revenue__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
